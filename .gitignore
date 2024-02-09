@@ -1,7 +1,8 @@
 ## Projet R
 *.Rproj
+.Rproj.user
 
 
 ## Les documents pdf
 *.pdf
-.Rproj.user
+*.br
