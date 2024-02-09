@@ -1,5 +1,7 @@
-library(shiny)
+## Appli mono fichier
+## MdB
 
+library(shiny)
 
 ui <- fluidPage(
   titlePanel("Voyance Divine"),
