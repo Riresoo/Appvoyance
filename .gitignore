@@ -1,0 +1,7 @@
+## Projet R
+*.Rproj
+
+
+## Les documents pdf
+*.pdf
+.Rproj.user
